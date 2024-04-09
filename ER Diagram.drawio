@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T20:28:55.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CFnLI97lTomLcW-PAtIH" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T20:31:00.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="t1FfMo3vBMXMeht31Pv7" version="24.2.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1576" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1444" dy="316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -285,6 +285,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="H0m1aGvCvJJlFQ9I7XtP-147" value="participantsInConversation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H0m1aGvCvJJlFQ9I7XtP-103">
+          <mxGeometry x="0.2634" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H0m1aGvCvJJlFQ9I7XtP-148" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H0m1aGvCvJJlFQ9I7XtP-103">
+          <mxGeometry x="0.9383" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H0m1aGvCvJJlFQ9I7XtP-149" value="0..*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H0m1aGvCvJJlFQ9I7XtP-103">
+          <mxGeometry x="-0.9269" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="H0m1aGvCvJJlFQ9I7XtP-104" value="DirectMessage" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="50" width="220" height="210" as="geometry" />
         </mxCell>
@@ -314,6 +329,21 @@
               <mxPoint x="690" y="195" />
               <mxPoint x="700" y="235" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H0m1aGvCvJJlFQ9I7XtP-150" value="containsDirectMessage" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H0m1aGvCvJJlFQ9I7XtP-114">
+          <mxGeometry x="0.2168" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H0m1aGvCvJJlFQ9I7XtP-151" value="0..*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H0m1aGvCvJJlFQ9I7XtP-114">
+          <mxGeometry x="0.7514" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H0m1aGvCvJJlFQ9I7XtP-153" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H0m1aGvCvJJlFQ9I7XtP-114">
+          <mxGeometry x="-0.8311" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H0m1aGvCvJJlFQ9I7XtP-115" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="H0m1aGvCvJJlFQ9I7XtP-111">
