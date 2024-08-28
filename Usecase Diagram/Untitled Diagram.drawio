@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-28T15:47:42.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="Atz9KQAJxnzYll90eTi1" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-28T15:52:18.573Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="7QxpntGhKFcFStLERvx_" version="24.4.10" type="github">
   <diagram name="Page-1" id="TswOkcbOxJksG1xE5W1X">
     <mxGraphModel dx="1932" dy="1718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="_fBAPdAfYRDBdJ_oHnz5-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="-280" y="210" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_fBAPdAfYRDBdJ_oHnz5-3" value="package" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="280" width="400" height="280" as="geometry" />
         </mxCell>
         <mxCell id="_fBAPdAfYRDBdJ_oHnz5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_fBAPdAfYRDBdJ_oHnz5-5" target="_fBAPdAfYRDBdJ_oHnz5-7">
           <mxGeometry relative="1" as="geometry" />
@@ -69,6 +66,39 @@
           <mxGeometry x="-0.0162" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_fBAPdAfYRDBdJ_oHnz5-34" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-160" y="270" width="370" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="_fBAPdAfYRDBdJ_oHnz5-32" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=160;tabHeight=20;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="_fBAPdAfYRDBdJ_oHnz5-34">
+          <mxGeometry y="5.92" width="370" height="284.08" as="geometry" />
+        </mxCell>
+        <mxCell id="_fBAPdAfYRDBdJ_oHnz5-33" value="Profile Module" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_fBAPdAfYRDBdJ_oHnz5-34">
+          <mxGeometry x="34.20689655172413" width="86.89655172413794" height="35.51020408163265" as="geometry" />
+        </mxCell>
+        <mxCell id="_fBAPdAfYRDBdJ_oHnz5-41" value="Connected Accounts" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="_fBAPdAfYRDBdJ_oHnz5-34">
+          <mxGeometry x="225" y="139" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_fBAPdAfYRDBdJ_oHnz5-40" value="Security" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="_fBAPdAfYRDBdJ_oHnz5-34">
+          <mxGeometry x="225" y="88" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_fBAPdAfYRDBdJ_oHnz5-39" value="Active Divice Management" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="_fBAPdAfYRDBdJ_oHnz5-34">
+          <mxGeometry x="190" y="35.50999999999999" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_fBAPdAfYRDBdJ_oHnz5-35" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="_fBAPdAfYRDBdJ_oHnz5-34">
+          <mxGeometry x="20" y="35.50999999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_fBAPdAfYRDBdJ_oHnz5-36" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="_fBAPdAfYRDBdJ_oHnz5-34">
+          <mxGeometry x="20" y="105.50999999999999" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_fBAPdAfYRDBdJ_oHnz5-37" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="_fBAPdAfYRDBdJ_oHnz5-34">
+          <mxGeometry x="20" y="175.51" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_fBAPdAfYRDBdJ_oHnz5-42" value="Update Profile" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="_fBAPdAfYRDBdJ_oHnz5-34">
+          <mxGeometry x="225" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_fBAPdAfYRDBdJ_oHnz5-44" value="Verify Current Password" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="30" y="510" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
