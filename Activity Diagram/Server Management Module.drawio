@@ -15,10 +15,10 @@
         <mxCell id="vPE3skOQkjk9zv2rMg0B-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vPE3skOQkjk9zv2rMg0B-3" target="vPE3skOQkjk9zv2rMg0B-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vPE3skOQkjk9zv2rMg0B-3" value="Manage Server" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="vPE3skOQkjk9zv2rMg0B-3" value="Manage Server" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="160" y="-5" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vPE3skOQkjk9zv2rMg0B-4" value="Select Channel Manipulation" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="vPE3skOQkjk9zv2rMg0B-4" value="Select Channel Manipulation" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="90" y="90" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vPE3skOQkjk9zv2rMg0B-5" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vPE3skOQkjk9zv2rMg0B-4" target="vPE3skOQkjk9zv2rMg0B-10" edge="1">
@@ -35,7 +35,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vPE3skOQkjk9zv2rMg0B-10" value="Select Server Manipulation?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="vPE3skOQkjk9zv2rMg0B-10" value="Select Server Manipulation?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="629" y="95" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vPE3skOQkjk9zv2rMg0B-11" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" parent="1" source="vPE3skOQkjk9zv2rMg0B-10" edge="1">
@@ -55,16 +55,16 @@
         <mxCell id="vPE3skOQkjk9zv2rMg0B-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vPE3skOQkjk9zv2rMg0B-13" target="vPE3skOQkjk9zv2rMg0B-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vPE3skOQkjk9zv2rMg0B-13" value="Manage Server" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="vPE3skOQkjk9zv2rMg0B-13" value="Manage Server" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="694" y="170" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vPE3skOQkjk9zv2rMg0B-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vPE3skOQkjk9zv2rMg0B-18" target="vPE3skOQkjk9zv2rMg0B-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vPE3skOQkjk9zv2rMg0B-18" value="Manage Channel" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="vPE3skOQkjk9zv2rMg0B-18" value="Manage Channel" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="160" y="180" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vPE3skOQkjk9zv2rMg0B-22" value="Select Channel Manipulation" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="vPE3skOQkjk9zv2rMg0B-22" value="Select Channel Manipulation" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="90" y="238" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vPE3skOQkjk9zv2rMg0B-23" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" parent="1" source="vPE3skOQkjk9zv2rMg0B-22" edge="1">
@@ -86,19 +86,19 @@
         <mxCell id="vPE3skOQkjk9zv2rMg0B-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vPE3skOQkjk9zv2rMg0B-27" target="vPE3skOQkjk9zv2rMg0B-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vPE3skOQkjk9zv2rMg0B-27" value="Create Channel" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="vPE3skOQkjk9zv2rMg0B-27" value="Create Channel" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="30" y="320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vPE3skOQkjk9zv2rMg0B-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vPE3skOQkjk9zv2rMg0B-28" target="vPE3skOQkjk9zv2rMg0B-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vPE3skOQkjk9zv2rMg0B-28" value="Change Channel" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="vPE3skOQkjk9zv2rMg0B-28" value="Change Channel" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="314" y="320" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vPE3skOQkjk9zv2rMg0B-29" value="Insert channel details into database" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="vPE3skOQkjk9zv2rMg0B-29" value="Insert channel details into database" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-40" y="390" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vPE3skOQkjk9zv2rMg0B-31" value="Modify channel details" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="vPE3skOQkjk9zv2rMg0B-31" value="Modify channel details" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="241" y="390" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vPE3skOQkjk9zv2rMg0B-36" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#000000;" parent="1" vertex="1">
@@ -124,7 +124,7 @@
             <mxPoint x="399" y="601" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vPE3skOQkjk9zv2rMg0B-43" value="Select Channel Manipulation" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="vPE3skOQkjk9zv2rMg0B-43" value="Select Channel Manipulation" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="620" y="238" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vPE3skOQkjk9zv2rMg0B-44" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" parent="1" source="vPE3skOQkjk9zv2rMg0B-43" edge="1">
@@ -143,10 +143,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vPE3skOQkjk9zv2rMg0B-46" value="Create New Server" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="vPE3skOQkjk9zv2rMg0B-46" value="Create New Server" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="560" y="320" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vPE3skOQkjk9zv2rMg0B-47" value="Change Server" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="vPE3skOQkjk9zv2rMg0B-47" value="Change Server" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="844" y="320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vPE3skOQkjk9zv2rMg0B-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="vPE3skOQkjk9zv2rMg0B-74" edge="1">
@@ -159,10 +159,10 @@
             <mxPoint x="894" y="360.05" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vPE3skOQkjk9zv2rMg0B-74" value="Insert details into database" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="vPE3skOQkjk9zv2rMg0B-74" value="Insert details into database" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="490" y="390.05" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vPE3skOQkjk9zv2rMg0B-75" value="Modify server details in database" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="vPE3skOQkjk9zv2rMg0B-75" value="Modify server details in database" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="771" y="390.05" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vPE3skOQkjk9zv2rMg0B-76" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#000000;" parent="1" vertex="1">
@@ -182,13 +182,13 @@
         <mxCell id="vPE3skOQkjk9zv2rMg0B-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vPE3skOQkjk9zv2rMg0B-80" target="vPE3skOQkjk9zv2rMg0B-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vPE3skOQkjk9zv2rMg0B-80" value="Modify Server Settings" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="vPE3skOQkjk9zv2rMg0B-80" value="Modify Server Settings" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1001" y="180" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vPE3skOQkjk9zv2rMg0B-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vPE3skOQkjk9zv2rMg0B-81" target="vPE3skOQkjk9zv2rMg0B-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vPE3skOQkjk9zv2rMg0B-81" value="Change Properties" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="vPE3skOQkjk9zv2rMg0B-81" value="Change Properties" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1041" y="248" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vPE3skOQkjk9zv2rMg0B-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="vPE3skOQkjk9zv2rMg0B-83" edge="1">
@@ -196,7 +196,7 @@
             <mxPoint x="1121" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vPE3skOQkjk9zv2rMg0B-83" value="Modify Server properties in database" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="vPE3skOQkjk9zv2rMg0B-83" value="Modify Server properties in database" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1001" y="320" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vPE3skOQkjk9zv2rMg0B-89" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
