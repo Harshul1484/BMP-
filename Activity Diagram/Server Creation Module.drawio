@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T21:08:43.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="-ANWCxbYW_RW9bJMWN4Q" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
   <diagram name="Page-1" id="9QV3iul0QTHhbR3dxzKv">
-    <mxGraphModel dx="910" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zqjizlh5Z3Xi-svt179I-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zqjizlh5Z3Xi-svt179I-3" target="zqjizlh5Z3Xi-svt179I-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zqjizlh5Z3Xi-svt179I-3" value="Create Server" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="zqjizlh5Z3Xi-svt179I-3" value="Create Server" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="370" y="60" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqjizlh5Z3Xi-svt179I-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zqjizlh5Z3Xi-svt179I-4" target="zqjizlh5Z3Xi-svt179I-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zqjizlh5Z3Xi-svt179I-4" value="Provide Server Details" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="zqjizlh5Z3Xi-svt179I-4" value="Provide Server Details" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="340" y="120" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zqjizlh5Z3Xi-svt179I-5" value="Server Details Provided" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="zqjizlh5Z3Xi-svt179I-5" value="Server Details Provided" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="320" y="180" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqjizlh5Z3Xi-svt179I-6" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zqjizlh5Z3Xi-svt179I-5" target="zqjizlh5Z3Xi-svt179I-9" edge="1">
@@ -35,13 +35,13 @@
         <mxCell id="zqjizlh5Z3Xi-svt179I-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zqjizlh5Z3Xi-svt179I-8" target="zqjizlh5Z3Xi-svt179I-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zqjizlh5Z3Xi-svt179I-8" value="Insert server details in database" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="zqjizlh5Z3Xi-svt179I-8" value="Insert server details in database" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="220" y="240" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zqjizlh5Z3Xi-svt179I-9" value="Display Error Message" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="zqjizlh5Z3Xi-svt179I-9" value="Display Error Message" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="460" y="240" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zqjizlh5Z3Xi-svt179I-12" value="Insertion Successsfull" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="zqjizlh5Z3Xi-svt179I-12" value="Insertion Successsfull" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="199.75" y="300" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zqjizlh5Z3Xi-svt179I-13" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zqjizlh5Z3Xi-svt179I-12" edge="1">
@@ -65,10 +65,10 @@
             <mxPoint x="421" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zqjizlh5Z3Xi-svt179I-29" value="Display Confirmation" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="zqjizlh5Z3Xi-svt179I-29" value="Display Confirmation" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="360" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zqjizlh5Z3Xi-svt179I-30" value="Display Error Message" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="zqjizlh5Z3Xi-svt179I-30" value="Display Error Message" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="360" y="360" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zqjizlh5Z3Xi-svt179I-35" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#000000;" parent="1" vertex="1">
@@ -100,8 +100,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="500" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="420" />
-              <mxPoint x="420" y="420" />
+              <mxPoint x="540" y="440" />
+              <mxPoint x="420" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
