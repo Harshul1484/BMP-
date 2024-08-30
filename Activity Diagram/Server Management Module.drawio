@@ -96,10 +96,10 @@
           <mxGeometry x="314" y="320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vPE3skOQkjk9zv2rMg0B-29" value="Insert channel details into database" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="390" width="240" height="40" as="geometry" />
+          <mxGeometry x="-20" y="390" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vPE3skOQkjk9zv2rMg0B-31" value="Modify channel details" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="241" y="390" width="240" height="40" as="geometry" />
+          <mxGeometry x="293.5" y="390" width="141" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vPE3skOQkjk9zv2rMg0B-36" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="114" y="500" width="200" height="10" as="geometry" />
@@ -116,12 +116,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vPE3skOQkjk9zv2rMg0B-40" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="384" y="641" width="30" height="30" as="geometry" />
+          <mxGeometry x="665" y="641" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vPE3skOQkjk9zv2rMg0B-42" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="399" y="641" as="targetPoint" />
-            <mxPoint x="399" y="601" as="sourcePoint" />
+            <mxPoint x="680" y="641" as="targetPoint" />
+            <mxPoint x="680" y="601" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vPE3skOQkjk9zv2rMg0B-43" value="Select Channel Manipulation" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
@@ -160,10 +160,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vPE3skOQkjk9zv2rMg0B-74" value="Insert details into database" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="490" y="390.05" width="240" height="40" as="geometry" />
+          <mxGeometry x="530" y="390.05" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vPE3skOQkjk9zv2rMg0B-75" value="Modify server details in database" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="771" y="390.05" width="240" height="40" as="geometry" />
+          <mxGeometry x="794" y="390.05" width="191" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vPE3skOQkjk9zv2rMg0B-76" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="644" y="500.05" width="200" height="10" as="geometry" />
@@ -183,7 +183,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vPE3skOQkjk9zv2rMg0B-80" value="Modify Server Settings" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1001" y="180" width="240" height="40" as="geometry" />
+          <mxGeometry x="1050.5" y="180" width="141" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vPE3skOQkjk9zv2rMg0B-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vPE3skOQkjk9zv2rMg0B-81" target="vPE3skOQkjk9zv2rMg0B-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
